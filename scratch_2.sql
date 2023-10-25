@@ -1,6 +1,6 @@
 [1] Write an SQL statement that lists school names, student names, and their cities only if the school and the student are in the same city and the student is not from New York.
 
-<b> Table: school <b>
+__Table: school__
 
 | school_id | school_name        | city
 | --------- | ------------------ | ----------------------
@@ -10,7 +10,7 @@
 | 4         | MIT                | Boston
 | 5         | Yale               | New Haven
 
-<b> Table: student <b>
+__Table: student__
 
 | student_id |  student_name  | city          |    school_id
 | ---------- | ------------   | ------------- |  -----------
